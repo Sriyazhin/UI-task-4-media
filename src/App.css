@@ -1,0 +1,83 @@
+
+.forservice{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  height: 500px;
+}
+.contentside{
+width: 600px;
+padding-top: 80px;
+padding-left: 30px;
+}
+.titlepart{
+font-weight: 700;
+line-height: 62px;
+font-size: 58px;
+padding-right: 100px;
+
+}
+.parapart{
+line-height: 30px;
+font-size: 20px;
+padding-top: 30px;
+color: rgb(34, 34, 34);
+padding-right: 95px;
+}
+.learnmorebutton{
+padding-top: 50px;
+}
+.thebutton{
+  width: 170px;
+  height: 45px;
+  border-style: none;
+  background-color: rgb(251, 214, 4);
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+.thebutton:hover{
+background-color: rgb(238, 205, 15);
+}
+.imageside{
+width: 600px;
+}
+
+.forimage{
+  height: 500px;
+  width: 400px;
+  padding-left: 120px;
+  padding-top: 20px;
+}
+.forcards{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.forline{
+height: 150px;
+}
+.lineside{
+background-color: snow;
+padding-left: 350px;
+font-size: 19px;
+margin-top: 20px;
+word-spacing: 1px;
+}
+.booknowbutton{
+margin-top: 30px;
+display: flex;
+justify-content: center;
+}
+.book{
+  width: 170px;
+  height: 45px;
+  border-style: none;
+  background-color: rgb(251, 214, 4);
+  font-weight:bold;
+  letter-spacing: 3px;
+}
+.book:hover{
+  background-color: black;
+  color: white;
+}

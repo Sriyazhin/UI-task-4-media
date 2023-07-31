@@ -1,0 +1,78 @@
+@media (min-width: 481px) and (max-width: 802px){
+  
+    .forservice{
+      display: inline;
+      position: relative;
+      justify-content: center;
+    }
+    .contentside{
+      align-items: center;
+      width: 100%;
+      padding-left: 0%;
+    }
+    .titlepart{
+      font-size: 30px;
+      line-height: 35px;
+      padding-left: 160px;
+      padding-right: 0%;
+    }
+    .parapart{
+      margin-left: 0px;
+      font-size: 20px;
+      line-height: 30px;
+      padding-right: 0%;
+      padding-left: 160px;
+      margin-right: 130px;
+    }
+    .learnmorebutton{
+    padding-left: 160px;
+    }
+    .forimage{
+      padding-left: 0%;
+      
+    }
+    .imageside{
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      position: relative;
+     top: 25px;
+    }
+    .photo{
+      margin-bottom: 0%;
+    }
+  
+    .forcards{
+      display: inline;   
+    }
+    .cardone{
+      margin-bottom: 25px;
+      margin-left: 57px;
+      width: 520px;
+  height: 220px;
+  margin-left: 130px;
+    }
+    .paraforcard{
+      padding-right: 15px;
+    }
+    hr{
+      margin-left: 0px;
+      margin-right: 476px;
+    }
+    .lineside{
+      padding-left: 0%;
+      text-align: center;
+      margin-left: 210px;
+      margin-right: 210px;
+    }
+    .booknowbutton{
+      display: flex;
+  justify-content: center;
+    }
+    .book{
+  margin-left: 0%;
+  margin-top: 10px;
+  margin-bottom: 40px;
+    }
+    
+  }

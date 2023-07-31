@@ -1,0 +1,36 @@
+.cardone{
+    width: 290px;
+    height: 260px;
+    margin-right: 25px ;
+    background-color: rgb(231, 228, 228);
+    padding-left: 25px;
+    margin-top: 20px;
+    }
+    .aboutus{
+    color: gold;
+    font-weight: bold;
+    font-size: 24px;
+    padding-top: 25px;
+    }
+    .paraforcard{
+    padding-top: 20px;
+    padding-right: 55px;
+    line-height: 25px;
+    font-size: 17px;
+    color: rgb(21, 20, 20);
+    }
+    .morelink{
+    padding-top: 25px;
+    }
+    a{
+      text-decoration: none;
+      color: rgb(21, 20, 20);
+    }
+    a:hover{
+      color:rgb(234, 200, 5)
+    }
+    hr{
+      margin-top: 1px;
+      border: 1px solid rgb(222, 190, 9);
+      margin-right: 246px;
+    }
